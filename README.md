@@ -1,8 +1,8 @@
-#credits
+# credits
 - by: `jon`
 #body
 ##do
 this is a program to send 'hola'.
 
-#end
+# end
 thanks for readme.
